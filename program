@@ -1,0 +1,11 @@
+{
+    [
+      layout dot
+      extension png
+    ]
+    v1 - v2
+    v1 - v3
+    v3 - v4
+    v3 - v5
+    v2 - v6
+}
