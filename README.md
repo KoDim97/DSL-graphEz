@@ -11,7 +11,7 @@ $ git clone https://github.com/KoDim97/DSL-graphEz.git
 ```
 - установить все зависимости
 ```
-$ $ pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 - установить программу [Graphviz](http://www.graphviz.org/download/) версии 2.4.7 и новее
 
