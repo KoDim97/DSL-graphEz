@@ -11,7 +11,7 @@ $ git clone https://github.com/KoDim97/DSL-graphEz.git
 ```
 - установить все зависимости
 ```
-$ $ pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 - установить программу [Graphviz](http://www.graphviz.org/download/) версии 2.4.7 и новее
 
@@ -55,6 +55,8 @@ $ python -m graphEz <program>
 - v, где v отдельная вершина
 
 Вершина графа -- строковый литерал с использование латинского алфавита, может содержать цифры, но не начинаться с них.
+
+Более полное описание синтаксиса [здесь](https://github.com/KoDim97/DSL-graphEz/blob/master/docs/graphEz.pdf).
 
 ## Пример корректного описания графов
 ```
