@@ -1,11 +1,32 @@
 {
     [
-      layout dot
-      extension png
+        layout circo
+        extension png
     ]
+    
     v1 - v2
     v1 - v3
+    v1 - v4
+    v1 - v5
+    v2 - v3
+    v2 - v4
+    v2 - v5
     v3 - v4
     v3 - v5
-    v2 - v6
+    v4 - v5
+}
+
+{
+    [
+        layout dot
+        extension dot
+    ]
+    a - b
+    a - c
+    b - d
+    b - e
+    c - f
+    c - g
+    c - h
+    h - i
 }
